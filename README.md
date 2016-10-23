@@ -6,7 +6,7 @@
 [![NPM version](https://badge.fury.io/js/mockjs.svg)](http://badge.fury.io/js/mockjs)
 [![Bower version](https://badge.fury.io/bo/mockjs.svg)](http://badge.fury.io/bo/mockjs)
 [![Dependency Status](https://gemnasium.com/nuysoft/Mock.svg)](https://gemnasium.com/nuysoft/Mock)
-[![spm package](http://spmjs.io/badge/mockjs)](http://spmjs.io/package/mockjs) -->
+[![spm package](http://spmjs.io/badge/mockjs)](http://spmjs.io/package/mockjs) 1-->
 
 Mock.js is a simulation data generator to help the front-end to develop and prototype separate from the back-end progress and reduce some monotony particularly while writing automated tests.
 
